@@ -28,6 +28,12 @@
   border-left-color: white;
   border-left-width : medium;
 }
+.footer{
+  background-color: black;
+  color: white;
+  padding: 3rem;
+}
+
 
 #section1{
   background-color: black;
@@ -59,21 +65,30 @@
       z-index: 2;
       position:relative;
       width: 100%;
-      height: 60rem;
       top: -13rem;
+      display: inline;
         }
+    #section5{
+        z-index: 2;
+        position:relative;
+        width: 100%;
+        padding-left: 45REM;
+        top: -50rem;
+            }
+    #section6
+    {
+    }
 
 
 #headerimg
 { background-size: (100% 100%);
   border: -1rem;
 }
-#boyimag{
+#boyimag{ padding-left: 3rem; }
 
-}
 td{padding: 3rem;
    padding-left: 5rem;
-  width: 45%;
+    width: 45%;
 
 }
 
