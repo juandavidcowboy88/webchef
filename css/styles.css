@@ -72,19 +72,30 @@
         z-index: 2;
         position:relative;
         width: 100%;
-        padding-left: 45REM;
+        padding-left: 45rem;
         top: -50rem;
             }
     #section6
     {
+      margin-top: -25rem;
+    z-index: 3;
+    padding-left: 5rem;
     }
-
+#line{
+  display: inline;
+}
 
 #headerimg
 { background-size: (100% 100%);
   border: -1rem;
 }
 #boyimag{ padding-left: 3rem; }
+#formulario{
+  width: 35%;
+}
+.button {
+color: #d59a29;
+  border-radius: 0%;}
 
 td{padding: 3rem;
    padding-left: 5rem;
